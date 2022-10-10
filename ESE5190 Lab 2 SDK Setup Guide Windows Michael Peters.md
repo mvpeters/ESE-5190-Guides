@@ -8,8 +8,8 @@
 
 Microsoft Surface Laptop 2017, Windows 10
 
-Installed Software:
-
+**Installed Software:
+**
 I ended up probably installing more software than needed, links to each are in their own sections below.
 This video I found on YouTube was helpful in making sure I was installing things correctly, the video takes some additional steps which I ignored but was useful for some software installations.
 
