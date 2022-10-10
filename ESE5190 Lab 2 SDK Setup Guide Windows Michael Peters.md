@@ -44,8 +44,10 @@ https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-w
  
 **Lab2A Log:**
 
-I’m following the instructions in section 9.2 of the “Getting Started” guide for this setup of SDK. 
+I’m following the instructions in section 9.2 of the “Getting Started” guide for this setup of SDK.
 https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf 
+I am not including significant detail for the steps that are already described in the pico guide linked above. This is more so a supplimental guide to the official one and to document what steps I followed and in what order to get the hello_usb.c code working on the RP2040.
+
 
 **Arm GNU Toolchain Download**
 
@@ -54,7 +56,10 @@ I downloaded the file ending in -arm-none-eabi.exe like the guide says (4th one 
 
 **CMake**
 
-Downloaded CMake “Windows x64 Installer:” from their website like the guide suggested
+![image](https://user-images.githubusercontent.com/114199773/194926560-4d8e615e-bf3b-4130-8c42-45568982243e.png)
+
+
+Downloaded CMake “Windows x64 Installer:” from (https://cmake.org/download/) like the guide suggested
 Added it as a path for all users like the guide suggested.
 
 **Build Tools For Visual Studio 2022**
