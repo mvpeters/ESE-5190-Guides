@@ -32,7 +32,8 @@ After installing everything else however it seems this terminal might not have a
 **gVim**
 
 I installed gVim from the top first link on their website that says gvim_9.0.0000.exe
- 
+ ![image](https://user-images.githubusercontent.com/114199773/194925225-05374f64-c5b3-4240-981e-1ea3e393a63b.png)
+
 I set it up as default/recommended as described in the prelab.
 
 **Putty**
@@ -82,10 +83,14 @@ Installed MS Visual studio code from the download in the guide from section 9.2.
 
 To actually just run the code and see “Hello World” printed in the serial console I first plugged the RP2040 into the USB then pushed both buttons to reset the board  from the circuit python configuration it had been in from lab 1. Now a new .UF2 file can be dragged and dropped into the board. I dropped the Hello_USB.UF2 file from the pico-examples/build folder onto the board. I then opened PuTTY and connected using the serial console COM4. One note is that previously when I set it up it was COM3 but when loaded with the new UF2 file it switched to COM4. Having the wrong COM port meant my laptop couldn’t read the serial print out. This gave me trouble for a few minutes so it might be good to double check you have the correct COM port after loading the new UF2 file by using the windows “Device Manager”.
  
+ ![image](https://user-images.githubusercontent.com/114199773/194925251-1bc8a4dd-8b8a-4d39-8395-82eddb149f23.png)
+
 
 Also able to edit the hello_usb.c file and then build it to change what it prints to Putty.
- 
+ ![image](https://user-images.githubusercontent.com/114199773/194925313-4b4ef5fa-e20f-48ac-80d9-eb3bc85ea859.png)
+
 Edited the C code and changed the builder from [All] to just [hello_usb] so it only builds the edited code and then hit the build button next to it.
 
- 
+ ![image](https://user-images.githubusercontent.com/114199773/194925363-2973242b-43f7-49b5-a3ec-3b4f0cd857a0.png)
+
 
