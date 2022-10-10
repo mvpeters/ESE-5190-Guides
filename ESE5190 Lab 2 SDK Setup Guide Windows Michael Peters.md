@@ -41,6 +41,7 @@ I set it up as default/recommended as described in the prelab.
 I installed 64bitx86 putty link from the link provided in the prelab. I set it up as recommended and it loaded like it said it would. I configured as suggested in the guide in the PreLab. The guide for windows that I followed is:
 https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-windows 
  
+ 
 **Lab2A Log:**
 
 I’m following the instructions in section 9.2 of the “Getting Started” guide for this setup of SDK. 
