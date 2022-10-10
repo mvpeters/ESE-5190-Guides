@@ -88,7 +88,7 @@ Ran the 5 commands in order in the default command prompt from section 9.2.2. Ev
 
 **MS Visual Studio Code**
 
-Installed MS Visual studio code from the download in the guide from section 9.2.4. I configured it as the guide suggested in order and built all the uf2 files. They took a few hours and I’m not sure if it is necessary to build them all initially but I did anyway just to be safe. Important note is to launch from the “Developer Command Prompt for VS 2022” that was downloaded earlier by typing “code”. This will open MS Visual Studio code configured how you need it to be to build and edit files properly.
+Installed MS Visual studio code from the download in the guide from section 9.2.4. I configured it as the guide suggested and added the CMake extension in order and built all the uf2 files. They took a few hours and I’m not sure if it is necessary to build them all initially but I did anyway just to be safe. Important note is to launch from the “Developer Command Prompt for VS 2022” that was downloaded earlier by typing “code”. This will open MS Visual Studio code configured how you need it to be to build and edit files properly. The youtube video I linked previously at the start of this guide was helpful for this step once all the initial software was installed and it was time to configure the software so the UF2 files could be built. It shows a step by step process for this that I couldn't include in just a written guide.
 
 **Running Hello World**
 
