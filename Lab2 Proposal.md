@@ -1,1 +1,6 @@
+Mike Peters
+ESE5190
+Lab 2 Project Proposal 
+
+
 For this assignment I would like to vary the basic LED circuit slightly by adding a potentiometer and another LED if possible. The goal is to get a red LED to light up when the POT is all the way in its lowest value and a green LED to light up when all the way in its highest value. This would be done by putting a pot and an LED in series. Next another LED in series with a resistor and finally these two groupings in parallel. Based on the values of the POT and resistor most of the current should go to one of the LEDs depending on the position. The goal would be to try to see if this would work with the components available and with the low currents and voltages available from the GPIO pin. I have some pots, resistors, and LEDs from an old class that I could also try the ones available don’t work. If I can’t get this particular setup to work I’ll remove one of the LED’s and just have a pot varying the brightness of an LED. I think it would be cool because I had to design a similar circuit where a pot controlled the brightness of lighting in an aircraft at work a few months ago. I never got to see it actually installed so this would give me the chance to make it on a smaller scale and add a slight twist with a second LED. 
